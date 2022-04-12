@@ -18,7 +18,7 @@ body {
     color: #fff;
     border-radius: 5px;
     padding: 20px;
-    font-size: 15px;
+    font-size: 18px;
 
   }
 
@@ -82,4 +82,28 @@ body {
   }
   .nobullets {
         list-style-type: none;
+  }
+  h2 {
+    text-align: center;
+    font-size: 45px;
+    color: blue;
+  }
+  h4 {
+    font-size: 22px;
+  }
+  .rarity {
+    color: red;
+  }
+  .size {
+    color: green;
+  }
+  .other {
+    color: orange;
+  }
+  .alignment {
+    color: purple;
+  }
+  .bold {
+    font-weight: bolder;
+    color: skyblue;
   }
