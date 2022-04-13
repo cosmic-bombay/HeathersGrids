@@ -18,7 +18,8 @@ body {
     color: #fff;
     border-radius: 5px;
     padding: 20px;
-    font-size: 18px;
+    font-size: 14px;
+    border-radius: 30px;
 
   }
 
@@ -92,13 +93,13 @@ body {
     font-size: 22px;
   }
   .rarity {
-    color: red;
+    color: orange;
   }
   .size {
     color: green;
   }
   .other {
-    color: orange;
+    color: red;
   }
   .alignment {
     color: purple;
