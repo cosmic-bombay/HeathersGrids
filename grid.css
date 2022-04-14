@@ -75,8 +75,31 @@ body {
   }
 
   .k {
-    grid-column: col / span 4;
+    grid-column: col / span 2;
     grid-row: 6;
+  }
+
+  .l {
+    grid-column: col 3 / span 2;
+    grid-row: 6;
+
+  }
+
+  .m {
+    grid-column: col / span 2;
+    grid-row: 7;
+  }
+
+  .n {
+    grid-column: col 3 / span 2;
+    grid-row: 7;
+  }
+
+  .o {
+    grid-column:  col / span 4;
+    grid-row: 8;
+  }
+
   }
   .rightside {
     text-align: end;
